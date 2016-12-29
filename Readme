@@ -1,0 +1,5 @@
+Movie Database Project
+
+This is a Movie Database website built using python. In this a class Fresh_tomatoes is used to read the data provided by the 
+users movie database which he/she wishes to display. The media class is used to create instance for different movies. The fresh tomatoes 
+class is used to display this database in a website.
